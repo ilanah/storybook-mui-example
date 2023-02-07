@@ -1367,6 +1367,11 @@
     "minimatch" "^3.1.2"
     "strip-json-comments" "^3.1.1"
 
+"@fontsource/assistant@^4.5.12":
+  "integrity" "sha512-jTZjJD+uneGRO9cL5vsTHnrQ/2iXGHqIMDKFB+TjmO/uGSvCSO85y2mviKwyn5Cpo4AlOZcVwzHzUdiF+Py7Aw=="
+  "resolved" "https://registry.npmjs.org/@fontsource/assistant/-/assistant-4.5.12.tgz"
+  "version" "4.5.12"
+
 "@fontsource/material-icons@^4.5.4":
   "integrity" "sha512-YGmXkkEdu6EIgpFKNmB/nIXzZocwSmbI01Ninpmml8x8BT0M6RR++V1KqOfpzZ6Cw/FQ2/KYonQ3x4IY/4VRRA=="
   "resolved" "https://registry.npmjs.org/@fontsource/material-icons/-/material-icons-4.5.4.tgz"

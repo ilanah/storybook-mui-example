@@ -1,6 +1,6 @@
 import { withMuiTheme } from './with-mui-theme.decorator';
 
-// Load Roboto fonts
+// Load fonts
 import '@fontsource/assistant/300.css';
 import '@fontsource/assistant/400.css';
 import '@fontsource/assistant/500.css';
